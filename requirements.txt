@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+gspread
+oauth2client-master
+google-api-python-client
+gunicorn

@@ -1,4 +1,3 @@
-# Study-Doc-Website
-Final project for my software engineering class. This website allows one to upload, host, and view study documents.
-
-Authors: Kathleen Blute, Clarissa Skipworth, Carlos Gomez
+# BrighterThanABorderCollie
+All the work for Spring 2021 Software Engineering group project - student solidarity account. <br />
+Project Goal: A Document Repository for students to share and access study resources.
